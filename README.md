@@ -11,3 +11,4 @@ Number of commits counting
 ## check merge
 ### merge check correct
 end of file
+close-out
