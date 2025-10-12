@@ -1,2 +1,3 @@
 # Waardering
-Valuation
+## Valuation
+Waardering van volgende code:
