@@ -6,3 +6,4 @@ Score card, manage, review
 Merge pull request check test
 Merger of text into main
 Merge succeeded! into main.
+Test repo for merge pull request executed without any error
