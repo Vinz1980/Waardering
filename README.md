@@ -10,3 +10,4 @@ Test repo for merge pull request executed without any error
 Number of commits counting
 ## check merge
 ### merge check correct
+end of file
