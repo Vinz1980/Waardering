@@ -13,3 +13,4 @@ Number of commits counting
 end of file
 close-out
 Check
+TEST
